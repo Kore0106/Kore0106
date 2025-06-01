@@ -1,7 +1,5 @@
  # 👋 Hi I'm Isha!
 
-Welcome to my corner of GitHub, where code meets creativity. 🚀
-
 ---
 
 ### 👀 I’m interested in
